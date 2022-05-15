@@ -46,6 +46,6 @@ class FunctionPlotter:
     def _get_fct_values(self):
         return self.x, self.y
 
-
-plotter = FunctionPlotter()
-# print(plotter._get_fct_values())
+if __name__ == "__main__":
+    plotter = FunctionPlotter()
+    # print(plotter._get_fct_values())
