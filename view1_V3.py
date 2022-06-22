@@ -1,6 +1,7 @@
 import copy
 
 from numpy import *
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.widgets import Slider, Button, TextBox
